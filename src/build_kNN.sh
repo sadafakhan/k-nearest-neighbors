@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 ./build_kNN.py $@
+python3 src/build_kNN.py $@
