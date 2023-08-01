@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING572, HW4, 01/31/2022. Implements the kNN algorithm."""
-
 import os
 import sys
 import numpy as np
